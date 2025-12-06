@@ -1,0 +1,8 @@
+ Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
+
+
+
+ 
+ .venv\Scripts\Activate.ps1
+ 
+ python __my_scripts__/hello_world.py
